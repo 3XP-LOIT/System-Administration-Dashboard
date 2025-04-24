@@ -8,7 +8,7 @@ Clone the repository
 ```git clone https://github.com/3XP-LOIT/System-Administration-Dashboard.git```
 
 Then enter the directory
-```cd System-Administration-Dashboard.git```
+```cd System-Administration-Dashboard```
 
 Give the bash script executable permissions
 ```chmod +x system_administration_dashboard.sh```
